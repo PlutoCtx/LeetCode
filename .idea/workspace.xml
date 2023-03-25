@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day01/question01/CQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day01/question01/CQueue01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day01/question01/CQueue02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day01/question01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day01/question02/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day01/question02/README.md" afterDir="false" />
+    <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679739710138</updated>
-      <workItem from="1679739711539" duration="4454000" />
+      <workItem from="1679739711539" duration="5409000" />
     </task>
+    <task id="LOCAL-00001" summary="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">
+      <created>1679744395372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679744395372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/" />
   </component>
 </project>
