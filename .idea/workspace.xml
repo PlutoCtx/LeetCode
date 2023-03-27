@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="ignore this">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day02/question01/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day02/question02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day03/question01/ReplaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day03/question02/ReverseLeftWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day02/question01/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day02/question01/List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679739710138</updated>
       <workItem from="1679739711539" duration="6424000" />
-      <workItem from="1679838809955" duration="2017000" />
+      <workItem from="1679838809955" duration="2207000" />
+      <workItem from="1679921224060" duration="708000" />
     </task>
     <task id="LOCAL-00001" summary="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">
       <created>1679744395372</created>
@@ -80,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679745476822</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ignore this">
+      <created>1679844111177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679844111177</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
