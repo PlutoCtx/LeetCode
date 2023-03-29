@@ -1,4 +1,4 @@
-package com.example.swordpointtooffer.day040;
+package com.example.swordpointtooffer.day04.question01;
 
 /**
  * 剑指 Offer 53 - I. 在排序数组中查找数字 I

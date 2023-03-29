@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="ignore this">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day040/NumberInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day04/question02/FindRepeatNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day05/question01/MinArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day040/NumberInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day04/question01/NumberInSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,8 @@
       <workItem from="1679838809955" duration="2207000" />
       <workItem from="1679921224060" duration="747000" />
       <workItem from="1680000532606" duration="389000" />
-      <workItem from="1680012836704" duration="960000" />
+      <workItem from="1680012836704" duration="1854000" />
+      <workItem from="1680091619276" duration="1342000" />
     </task>
     <task id="LOCAL-00001" summary="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">
       <created>1679744395372</created>
@@ -96,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679931573288</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ignore this">
+      <created>1680013941025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680013941026</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
