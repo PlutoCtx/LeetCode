@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="ignore this">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230330/DistMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230330/KItemsWithMaximumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day06/question01/ArithmeticTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day06/question02/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day06/question03/FindMiddleIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -70,7 +71,8 @@
       <workItem from="1680012836704" duration="1854000" />
       <workItem from="1680091619276" duration="1979000" />
       <workItem from="1680094371322" duration="1128000" />
-      <workItem from="1680178011971" duration="602000" />
+      <workItem from="1680178011971" duration="793000" />
+      <workItem from="1680245596520" duration="2558000" />
     </task>
     <task id="LOCAL-00001" summary="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">
       <created>1679744395372</created>
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680094797026</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ignore this">
+      <created>1680178776250</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680178776250</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
