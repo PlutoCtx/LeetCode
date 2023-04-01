@@ -44,3 +44,7 @@ Jsrc/main/java/com/example/swordpointtooffer/day01/question02/MinStack.java,5\5
 Tsrc/main/java/com/example/swordpointtooffer/day06/question01/ArithmeticTriplets.java,0\2\02e7d492cbb159687adff82449eef33013dba85a
 x
 Hsrc/main/java/com/example/practices/_20230331/RichestCustomerWealth.java,5\2\523529099adf69839543e0e72a63295ccadeb535
+v
+Fsrc/main/java/com/example/swordpointtooffer/day02/question01/List.java,3\c\3c5d3e80e8963806af815219dd1eca2ba7ddb707
+z
+Jsrc/main/java/com/example/swordpointtooffer/day02/question02/Solution.java,f\c\fc74109b808ae49107e6aa97d2f277dbd35124f1
