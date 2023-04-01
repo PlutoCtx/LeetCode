@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="ignore this">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230331/RichestCustomerWealth.java" afterDir="false" />
+    <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="RichestCustomerWealth">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230401/MaskingPersonalInformation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day02/question01/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day02/question01/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day02/question02/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day02/question02/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,26 @@
       <recent name="D:\ProgramingCodes\IntelliJIDEAProjects\JavaCodes\CodeExercises\LeetCode\src\main\java\com\example\swordpointtooffer\day01\question01" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="MaskingPersonalInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practices._20230401.MaskingPersonalInformation" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practices._20230401.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaskingPersonalInformation" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +93,9 @@
       <workItem from="1680094371322" duration="1128000" />
       <workItem from="1680178011971" duration="793000" />
       <workItem from="1680245596520" duration="2643000" />
-      <workItem from="1680275821605" duration="1514000" />
+      <workItem from="1680275821605" duration="2136000" />
+      <workItem from="1680330112593" duration="620000" />
+      <workItem from="1680330758183" duration="1081000" />
     </task>
     <task id="LOCAL-00001" summary="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">
       <created>1679744395372</created>
@@ -136,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680248187999</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="RichestCustomerWealth">
+      <created>1680277449169</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680277449169</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +188,7 @@
     <MESSAGE value="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/" />
     <MESSAGE value="day05" />
     <MESSAGE value="ignore this" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore this" />
+    <MESSAGE value="RichestCustomerWealth" />
+    <option name="LAST_COMMIT_MESSAGE" value="RichestCustomerWealth" />
   </component>
 </project>
