@@ -1,7 +1,5 @@
 package com.example.practices._20230403;
 
-import java.util.logging.Logger;
-
 /**
  * 121. 买卖股票的最佳时机
  *
@@ -11,68 +9,6 @@ import java.util.logging.Logger;
  */
 
 public class MaxProfit {
-
-    /*
-     * 我写的 错的，暴力的解法你自己写，能用，但会超出时间限制，因为时间复杂度是O(n^2)
-     * @param prices    数组
-     * @return  最大利润
-     */
-    /*
-    public static int maxProfit(int[] prices) {
-        int[] max;
-        max = findMax(prices, 0, prices.length);
-        int[] min;
-        min = findMin(prices, 0, prices.length);
-
-        if (max[1] < min[1]){
-            return max[0] - min[0];
-        }else {
-            max = findMax(prices, 0, min[1]);
-            min = findMin(prices, max[1], prices.length);
-            if (max[1]< min[1]){
-                return max[0] - min[0];
-            }
-        }
-        return 0;
-    }
-
-
-    public static int[] findMax(int[] nums, int start, int end){
-        int[] temp01 = new int[2];
-        temp01[0] = nums[start];
-        temp01[1] = start;
-
-        for (int i = start + 1; i < end; i++){
-            if (temp01[0] < nums[i]){
-                temp01[0] = nums[i];
-                temp01[1] = i;
-            }
-        }
-        return temp01;
-    }
-
-    public static int[] findMin(int[] nums, int start, int end){
-        int[] temp02 = new int[2];
-        temp02[0] = nums[start];
-        temp02[1] = start;
-
-        for (int i = start + 1; i < end; i++){
-            if (temp02[0] > nums[i]){
-                temp02[0] = nums[i];
-                temp02[1] = i;
-            }
-        }
-        return temp02;
-    }
-*/
-    /*
-    public static void main(String[] args) {
-        int[] prices = {
-                7,1,5,3,6,4
-        };
-        Logger.getGlobal().info("" + maxProfit(prices));
-    }
-*/
 
     /**
      * 参考代码
