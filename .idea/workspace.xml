@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="MaxProfit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/MinScoreTriangulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230401/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day09/question01/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/swordpointtooffer/day09/question02/MaxValue.java" afterDir="false" />
+    <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="day09">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230403/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -57,7 +55,7 @@
       <recent name="D:\ProgramingCodes\IntelliJIDEAProjects\JavaCodes\CodeExercises\LeetCode\src\main\java\com\example\swordpointtooffer\day01\question01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="MaskingPersonalInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.practices._20230401.MaskingPersonalInformation" />
       <module name="LeetCode" />
@@ -71,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practices._20230403.Palindrome" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practices._20230403.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.MaskingPersonalInformation" />
       </list>
     </recent_temporary>
@@ -100,7 +112,8 @@
       <workItem from="1680334215054" duration="5516000" />
       <workItem from="1680349318532" duration="53000" />
       <workItem from="1680363984484" duration="988000" />
-      <workItem from="1680434937014" duration="2557000" />
+      <workItem from="1680434937014" duration="3336000" />
+      <workItem from="1680489313129" duration="2141000" />
     </task>
     <task id="LOCAL-00001" summary="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">
       <created>1679744395372</created>
@@ -186,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680339754117</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="day09">
+      <created>1680438729248</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680438729248</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +230,7 @@
     <MESSAGE value="RichestCustomerWealth" />
     <MESSAGE value="MaskingPersonalInformation" />
     <MESSAGE value="MaxProfit" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaxProfit" />
+    <MESSAGE value="day09" />
+    <option name="LAST_COMMIT_MESSAGE" value="day09" />
   </component>
 </project>

@@ -48,3 +48,9 @@ v
 Fsrc/main/java/com/example/swordpointtooffer/day02/question01/List.java,3\c\3c5d3e80e8963806af815219dd1eca2ba7ddb707
 z
 Jsrc/main/java/com/example/swordpointtooffer/day02/question02/Solution.java,f\c\fc74109b808ae49107e6aa97d2f277dbd35124f1
+}
+Msrc/main/java/com/example/practices/_20230401/MaskingPersonalInformation.java,7\7\77f5da60a51c83176eb972d2f19627b2ef2a54b1
+p
+@src/main/java/com/example/swordpointtooffer/day08/MaxProfit.java,f\8\f8b10df3a0515b3683b691ae5457f8c6a36cdcdc
+k
+;src/main/java/com/example/practices/_20230401/Solution.java,c\7\c70190d27ea27e9d60a192467a66dfe6a1cdfb9b
