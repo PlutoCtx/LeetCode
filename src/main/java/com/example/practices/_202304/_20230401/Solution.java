@@ -1,4 +1,4 @@
-package com.example.practices._20230401;
+package com.example.practices._202304._20230401;
 
 /**
  * 6327. 从两个数字数组里生成最小数字

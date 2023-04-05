@@ -1,4 +1,4 @@
-package com.example.practices._20230331;
+package com.example.practices._202303._20230331;
 
 /**
  * 1672. 最富有客户的资产总量

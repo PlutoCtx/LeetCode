@@ -1,4 +1,4 @@
-package com.example.practices._20230330;
+package com.example.practices._202303._20230330;
 
 /**
  * 2591. 将钱分给最多的儿童

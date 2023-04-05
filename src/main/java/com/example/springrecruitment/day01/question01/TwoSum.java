@@ -1,4 +1,4 @@
-package com.example.springrecruitment;
+package com.example.springrecruitment.day01.question01;
 
 import java.util.HashMap;
 import java.util.Map;
