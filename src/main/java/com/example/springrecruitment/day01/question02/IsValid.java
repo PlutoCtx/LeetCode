@@ -20,7 +20,7 @@ public class IsValid {
      * 来源：力扣（LeetCode）
      * 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
      */
-    private static final Map<Character,Character> map = new HashMap<Character,Character>(){{
+    private static final Map<Character,Character> MAP = new HashMap<Character,Character>(){{
         put('{','}');
         put('[',']');
         put('(',')');
@@ -28,14 +28,14 @@ public class IsValid {
     }};
 
     public boolean isValid(String s) {
-        if(s.length() > 0 && !map.containsKey(s.charAt(0))) {
+        if(s.length() > 0 && !MAP.containsKey(s.charAt(0))) {
             return false;
         }
         LinkedList<Character> stack = new LinkedList<Character>() {{ add('?'); }};
         for(Character c : s.toCharArray()){
-            if(map.containsKey(c)) {
+            if(MAP.containsKey(c)) {
                 stack.addLast(c);
-            } else if(!map.get(stack.removeLast()).equals(c)) {
+            } else if(!MAP.get(stack.removeLast()).equals(c)) {
                 return false;
             }
         }

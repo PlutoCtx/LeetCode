@@ -4,27 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="day11">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230405/question01/CommonFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day01/question02/IsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day02/question01/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day02/question01/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day02/question02/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day03/question01/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day03/question02/MyPow.java" afterDir="false" />
+    <list default="true" id="9701df16-c8b1-424c-8099-f3c41ed0af67" name="Changes" comment="spring recruitments">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00829da657b7eb452f9ea40d9fce32c41abd1306" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02e7d492cbb159687adff82449eef33013dba85a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03dc0924adf5b23d701b53e8ee22d4e97e244d29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0426553d8862e3c4f9669fa8ef520aa6afe80b34" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05c4db4c956e149f3d43aa61d284bce0946fd4fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12ac3f6c1831b4cc5f905f296be22729e11e802a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/2268307377e277b4a6fa3d3b0d604e185cc63da6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/231373d511fd34bc8d0623130d7f4a400cbba72e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/283c987f7c6ae366a4459e92024ae39ed57b5b09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/393dab4cc0c301a7783cd808a53af9e53c1802d7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c5d3e80e8963806af815219dd1eca2ba7ddb707" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42fd6b06741776c214f4be0554da50dd825b3704" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48b9fa51df92736be8d973acadf457e84eb80690" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/532682f741f1f18a5562b41946b1198afbdf9a56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/554221b4df0872eb9fdf19ef837e2f49a903ac33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/663bd6b593cc12b28d7b90ae39cd2bda1bc8dd5c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67f9fd2596948084ac6bd0cbf55209cb74cb8b1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a9cf6d6c75fffcf82b6805b7cc3b6f3fe007b44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6db6bebe9c66c5f1778debdf2c0384c790a19f93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70ec59cd671acb7814735ab9da9dca61b60f57fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81865ba95497d3d29e87c6107d3dd03c34a9f9dc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/8525caa24e287ab2d0ec20be620ebfee7a6bf26c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86cb5161d9623624ca6f08d5f7106e9b40a5ad15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/8935945a5869bc59f094a7497cd144084faf454c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/893a99631a42ee91ef5c88fb83357586c034dd59" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f2985361f39b1241b1d2f5f51ec52e38e1a0f6e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab2dabfb2505cc77a012c436da9e03aa71f714cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0d170a1d946c13b1592bd4fda63132909354fe4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b308c25988f02bb533f97b61815f3b3df173fa5e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bab1841b3349fc2f878222dd4693c6dd3a0453ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb979f1d9f536c741ec577228d547a2277c9ff66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/ccf3e788c1d29486d9ca69e423b21249759d39b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd4fa5b0c5c413c342144a77797f2c5d3f374f23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df7e85cc7870621ab23247855e90aa7a47d23a1d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e27ff052e0fde70402ac6f4e903044776509fc4e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92eb338c5ff79ee0424292a3d1ca306fc5e3740" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eca25127678ab3c0888f55e7c085d0db7b130f7b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/efc74ae562eab34209fce64b8078a101ceecbff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2f4f6c9db581f0f89ecc14c80e4cdf872e85a94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8b10df3a0515b3683b691ae5457f8c6a36cdcdc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9757259f3d898b3ff54b150d3638ff5a118abe0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc74109b808ae49107e6aa97d2f277dbd35124f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230413/question01/CountPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230413/question02/FinalValueAfterOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230330/DistMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202303/_20230330/DistMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230330/KItemsWithMaximumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202303/_20230330/KItemsWithMaximumSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230330/MaxWidthOfVerticalArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202303/_20230330/MaxWidthOfVerticalArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230331/RichestCustomerWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202303/_20230331/RichestCustomerWealth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230401/MaskingPersonalInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230401/MaskingPersonalInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230401/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230401/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230402/MinScoreTriangulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230402/MinScoreTriangulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230403/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230403/MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230403/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230403/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practices/_20230404/ConvertTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practices/_202304/_20230404/ConvertTemperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day01/question01/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day01/question02/IsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springrecruitment/day01/question02/IsValid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +85,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/ProgramingCodes/IntelliJIDEAProjects/JavaCodes/CodeExercises/LeetCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ProgramingCodes\IntelliJIDEAProjects\JavaCodes\CodeExercises\LeetCode\src\main\java\com\example\swordpointtooffer\day01\question01" />
@@ -79,54 +119,6 @@
       <recent name="com.example.swordpointtooffer.day02.question02" />
       <recent name="com.example.swordpointtooffer.day02" />
     </key>
-  </component>
-  <component name="RunManager" selected="Application.MaxProfit">
-    <configuration name="MaskingPersonalInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.practices._20230401.MaskingPersonalInformation" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.practices._20230401.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.practices._20230403.MaxProfit" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.practices._20230403.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.practices._20230403.Palindrome" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.practices._20230403.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MaxProfit" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.MaskingPersonalInformation" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -155,7 +147,19 @@
       <workItem from="1680489313129" duration="3554000" />
       <workItem from="1680514693162" duration="5696000" />
       <workItem from="1680613407928" duration="3863000" />
-      <workItem from="1680672914678" duration="4954000" />
+      <workItem from="1680672914678" duration="5583000" />
+      <workItem from="1680697196918" duration="1770000" />
+      <workItem from="1680769735975" duration="94000" />
+      <workItem from="1680882942680" duration="846000" />
+      <workItem from="1680916364047" duration="1445000" />
+      <workItem from="1681119980450" duration="2208000" />
+      <workItem from="1681187114040" duration="1086000" />
+      <workItem from="1681229936271" duration="1431000" />
+      <workItem from="1681231417951" duration="384000" />
+      <workItem from="1681231824979" duration="209000" />
+      <workItem from="1681273283025" duration="499000" />
+      <workItem from="1681287362609" duration="848000" />
+      <workItem from="1681347672322" duration="3701000" />
     </task>
     <task id="LOCAL-00001" summary="剑指Offer day01 2023.03.25&#10;https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/&#10;https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">
       <created>1679744395372</created>
@@ -276,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680616949848</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="spring recruitments">
+      <created>1680678066530</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680678066530</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +313,11 @@
     <MESSAGE value="day09" />
     <MESSAGE value="ignore this" />
     <MESSAGE value="day11" />
-    <option name="LAST_COMMIT_MESSAGE" value="day11" />
+    <MESSAGE value="spring recruitments" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring recruitments" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
